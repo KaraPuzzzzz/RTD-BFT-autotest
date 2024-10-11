@@ -1,0 +1,1 @@
+{"uuid":"5c5a03a9-3638-4152-ac43-3dc806b8297b","name":"test","children":["d4df26d9-f0e5-43e3-ab5b-a7d8f531078d"],"befores":[{"name":"beforeTestFixture","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1728675786972,"stop":1728675791770}],"afters":[],"start":1728675786957,"stop":1728675800650}
